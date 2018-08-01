@@ -1,5 +1,5 @@
 # PMF-Pytorch
-******************************This the implementation of PMF using Pytorch***********************************
+******************************This the implementation of PMF using Pytorch*********************************** \
 *This is a Pytorch code for probabilistic matrix factorization using Adam update rules in recommendation.*\
 *All files are organized and they are easy to be understood*\
 *You can use movielen-1m for testing this code. Please note the data path in this code are all relative path.*\
