@@ -13,7 +13,7 @@ This file contains the main pmf model definition.\
 ===>4 evaluations.py\
 This file defines the evaluation metric way for this algorithm.(RMSE in this file)\
 \
-Runing Note:\
+Running Note:\
 0.data_process-1.py ---> PMF_main.py\
 \
 paper reference:\
